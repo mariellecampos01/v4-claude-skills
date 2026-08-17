@@ -17,7 +17,6 @@ Skills do Claude Code usadas no dia a dia de atendimento/account da V4 Company. 
 - **checkin-quarter** — gera apresentações de check-in trimestral (ROPRE): resultados do quarter, OKRs, criativos vencedores, projeção do próximo trimestre.
 - **dados-kommo-audit** — auditoria de atendimento comercial no Kommo (CRM): pipeline, timing de resposta, canal de origem, qualidade das conversas.
 - **lp-audit** — auditoria técnica e visual de landing pages com relatório HTML no padrão V4.
-- **gigaclima-dash-update** — atualiza o dashboard de tarefas da Gigaclima publicado no Vercel.
 
 ### Ekyte
 - **ekyte-task** — cria tarefas no Ekyte via MCP com briefing estruturado no padrão Colli&Co.
