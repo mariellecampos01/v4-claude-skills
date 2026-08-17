@@ -2,3 +2,21 @@
 Thumbs.db
 *.log
 .env
+
+# Skills mantidas apenas localmente (fora do repo GitHub v4-claude-skills)
+/account-handoff/
+/account-pesquisa-profunda-cliente/
+/contexto/
+/cs-notebooklm-consulta-cliente/
+/dados-kommo-audit/
+/ekyte-briefing/
+/ekyte-briefing-refresh/
+/ekyte-refresh/
+/ekyte-task/
+/ekyte-templates-refresh/
+/frontend-design/
+/gestao-ekyte-rename-tasks/
+/gestao-ekyte-tags/
+/lp-audit/
+/novo-cliente/
+/outra-notebooklm-cadastrar/
